@@ -42,6 +42,7 @@ The primary stakeholders for this project include:
 - Improve **customer satisfaction** and **brand loyalty** through proactive engagement.
 
 ---
+<img width="783" height="416" alt="image" src="https://github.com/user-attachments/assets/136bd8ee-d370-4f28-8b7d-14b5b494276b" />
 
 ## 🤖 Modeling
 
